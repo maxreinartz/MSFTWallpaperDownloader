@@ -50,4 +50,4 @@ async def main():
 if __name__ == "__main__":
     asyncio.run(main())
 
-print(f"Done downloading wallpapers, downloaded {len(os.listdir('wallpapers'))} wallpapers. Time elapsed: {time.time() - startTime:.2f}s")
+print(f"Done downloading wallpapers.\nDownloaded: {len(os.listdir('wallpapers'))}.\nTime elapsed: {time.time() - startTime:.2f}s")
