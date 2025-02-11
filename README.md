@@ -4,8 +4,7 @@ This downloads offical Microsoft wallpapers from their [WallpaperHub page](https
 
 ## Download Speed
 
-When making this, I made sure to make it fast.  
-At the time of writing this, there was 4152 wallpapers to download.  
+At the time of writing this, there were 4152 wallpapers to download.  
 It took 168.41 seconds to download all 4000 of them, which is 0.04s/photo.
 
 ## Instructions
