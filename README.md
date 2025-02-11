@@ -19,5 +19,5 @@ python main.py
 
 ## LICENSE
 
-This is licensed under Creeper76's Software License. Check the LICENSE file for more.  
+This is licensed under Max Reinartz's Software License. Check the LICENSE file for more.  
 All of the images downloaded belong to their respective owners.
