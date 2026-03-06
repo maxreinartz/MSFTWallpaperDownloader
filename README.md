@@ -10,7 +10,7 @@ It took 168.41 seconds to download all 4000 of them, which is 0.04s/photo.
 ## Instructions
 
 To use this, all you need is python installed  
-Just run the following in your favorite terminal:  
+Just run the following in your favorite terminal
 ```bash
 pip install -r requirements
 python main.py
@@ -18,5 +18,5 @@ python main.py
 
 ## LICENSE
 
-This is licensed under Max Reinartz's Software License. Check the LICENSE file for more.  
-All of the images downloaded belong to their respective owners.
+This is licensed under a MIT License. Check the LICENSE file for more.  
+All downloaded images belong to their respective owners.
