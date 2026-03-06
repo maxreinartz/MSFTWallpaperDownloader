@@ -12,8 +12,7 @@ It took 168.41 seconds to download all 4000 of them, which is 0.04s/photo.
 To use this, all you need is python installed :)  
 Just run the following in your favorite terminal:  
 ``
-pip install -r requirements  
-python main.py
+pip install -r requirements
 ``
 
 ## LICENSE
